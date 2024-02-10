@@ -1,3 +1,5 @@
-# jenkins
-devops training
-this is my first commit
+#jenkins
+#include <stdio.h>
+int main(){
+printf("hello world");
+return 0;
